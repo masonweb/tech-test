@@ -1,0 +1,8 @@
+banco de dados
+
+id (int - 11)
+nome(varchar - 64)
+sobrenome(varchar - 64)
+email(varchar - 64)
+sexo(varchar - 1)
+url(varchar - 200)
